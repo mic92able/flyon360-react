@@ -1,0 +1,12 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+.DS_Store
+.env
+.env.*
+!.env.example
+!.env.production
+# Media are deployed to Cloudflare R2, outside the source repository.
+public/assets/
+public/fonts/

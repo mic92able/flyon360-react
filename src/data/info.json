@@ -1,0 +1,218 @@
+{
+    "San Fele": {
+        "eventi": [
+            {
+                "nome": "San giustino de jacobis",
+                "data": "30-31 Luglio"
+            },
+            {
+                "nome": "Festival delle Radici",
+                "data": "Luglio"
+            },
+            {
+                "nome": "Madonna di Pierno presso il Santuario",
+                "data": "15 Agosto"
+            }
+        ],
+        "numeri_utili": [
+            {
+                "nome": "Corpo Forestale",
+                "numero": "+39 097694317"
+            },
+            {
+                "nome": "Comune di San Fele",
+                "numero": "+39 097694611"
+            },
+            {
+                "nome": "Carabinieri",
+                "numero": "+39 097694101"
+            },
+            {
+                "nome": "Carabinieri",
+                "numero": "+39 0972715001"
+            },
+            {
+                "nome": "Pro Loco San Fele",
+                "numero": "+39 347 1361799"
+            }
+        ],
+        "link_mappa": "https://www.google.com/maps/d/embed?mid=16o8ea9Huyb7BNnnqBKnuEphT-jaGbZA&ehbc=2E312F&noprof=1",
+        "link_youtube": "https://www.youtube.com/embed/Xf049LDQ9lY?si=yM-O94ztGldiKAcp",
+        "link_youtube_inglese": "https://www.youtube.com/embed/QMNHbF_ry5Q?si=_pRmXE0UdEPdZcrU"
+    },
+    "Laghi di Monticchio": {
+        "eventi": [
+            {
+                "nome": "Festa dell'acqua",
+                "data": "15 maggio"
+            },
+            {
+                "nome": "Giro dei laghi",
+                "data": "20 giugno"
+            }
+        ],
+        "numeri_utili": [
+            {
+                "nome": "Ufficio Turistico",
+                "numero": "0972 239220"
+            },
+            {
+                "nome": "Guardia Medica",
+                "numero": "0972 239221"
+            }
+        ],
+        "link_mappa": "https://www.google.com/maps/d/embed?mid=16zADKVc6kPffn7YLztjveTu5PTt5Wfk&ehbc=2E312F&noprof=1",
+        "link_youtube": "https://www.youtube.com/embed/I3-LaVrb_aM?si=yJcJLjI5APIurDaX",
+        "link_youtube_inglese": "https://www.youtube.com/embed/7HySCR8LIZA?si=VVu9NHngQ97C4fXY"
+    },
+    "Lagopesole": {
+        "eventi": [
+            {
+                "nome": "Rievocazione storica",
+                "data": "12 luglio"
+            },
+            {
+                "nome": "Mercatino medievale",
+                "data": "18 luglio"
+            }
+        ],
+        "numeri_utili": [
+            {
+                "nome": "Carabinieri",
+                "numero": "0976 848111"
+            },
+            {
+                "nome": "Pronto Soccorso",
+                "numero": "0976 848113"
+            }
+        ],
+        "link_mappa": "https://www.google.com/maps/d/embed?mid=1gmpR3zSNietvE4plVwgo8Pgfk0EO4d8&ehbc=2E312F&noprof=1",
+        "link_youtube": "https://www.youtube.com/embed/2wQc_PTUyq8?si=gmwXsciQF5ogcQ8K",
+        "link_youtube_inglese": "https://www.youtube.com/embed/fxHovXBYm2Y?si=9TxY-qzysrSQ77Mr"
+    },
+    "Acerenza": {
+        "eventi": [
+            {
+                "nome": "Festa del vino",
+                "data": "1 settembre"
+            },
+            {
+                "nome": "Sagra della castagna",
+                "data": "22 ottobre"
+            }
+        ],
+        "numeri_utili": [
+            {
+                "nome": "Municipio",
+                "numero": "0971 741211"
+            },
+            {
+                "nome": "Biblioteca comunale",
+                "numero": "0971 741213"
+            }
+        ],
+        "link_mappa": "https://www.google.com/maps/d/embed?mid=1tVAKFZuERhYU4TMb9aJZU471w6VEBAE&ehbc=2E312F&noprof=1",
+        "link_youtube": "https://www.youtube.com/embed/DO8zxZ4cL9w?si=T1PMlHtd5iTjMR8W",
+        "link_youtube_inglese": "https://www.youtube.com/embed/VST1JCIvQuk?si=D6JAeIdC7tJI4MJ5"
+    },
+    "Melfi": {
+        "eventi": [
+            {
+                "nome": "Festa di San Michele",
+                "data": "8 maggio"
+            },
+            {
+                "nome": "Festival dei falò",
+                "data": "17 gennaio"
+            }
+        ],
+        "numeri_utili": [
+            {
+                "nome": "Polizia Municipale",
+                "numero": "0972 238911"
+            },
+            {
+                "nome": "Ospedale",
+                "numero": "0972 238933"
+            }
+        ],
+        "link_mappa": "https://www.google.com/maps/d/embed?mid=1Z6d-A-MyJ7cqJzexyriAcs1VzvLtBKU&ehbc=2E312F&noprof=1",
+        "link_youtube": "https://www.youtube.com/embed/C2FtQPLk_mI?si=HWwlLeex3Gn2-uDi",
+        "link_youtube_inglese": "https://www.youtube.com/embed/orb5lgOI9IQ?si=IwGm_B0HMrVRuJ3t"
+    },
+    "Pietragalla": {
+        "eventi": [
+            {
+                "nome": "Carnevale Pietragallese",
+                "data": "Febbraio variabile"
+            },
+            {
+                "nome": "Festa dell'olio",
+                "data": "25 novembre"
+            }
+        ],
+        "numeri_utili": [
+            {
+                "nome": "Municipio",
+                "numero": "0971 983111"
+            },
+            {
+                "nome": "Pro Loco",
+                "numero": "0971 983123"
+            }
+        ],
+        "link_mappa": "https://www.google.com/maps/d/embed?mid=14k1dDqFXrA3VwVlGRZTZ1F69DL_Lya4&ehbc=2E312F&noprof=1",
+        "link_youtube": "https://www.youtube.com/embed/uPSEpDQUP9Q?si=1Wka1Hw4zVZop37B",
+        "link_youtube_inglese": "https://www.youtube.com/embed/sFlsaZGPDSk?si=znfCJLUpiTWbTmAo"
+    },
+    "Venosa": {
+        "eventi": [
+            {
+                "nome": "Festival Oraziano",
+                "data": "Maggio variabile"
+            },
+            {
+                "nome": "Festa della Madonna",
+                "data": "8 settembre"
+            }
+        ],
+        "numeri_utili": [
+            {
+                "nome": "Guardia di Finanza",
+                "numero": "0972 364111"
+            },
+            {
+                "nome": "Casa di riposo",
+                "numero": "0972 364115"
+            }
+        ],
+        "link_mappa": "https://www.google.com/maps/d/embed?mid=1kJXC87slDZD0fr62Ugpyeerf0-vB1DI&ehbc=2E312F&noprof=1",
+        "link_youtube": "https://www.youtube.com/embed/nokbpw7OShk?si=Nb0NHlTytt9_TXME",
+        "link_youtube_inglese": "https://www.youtube.com/embed/RtpSUbeX_KA?si=9SpHzf2qV9Z8PW5s"
+    },
+    "Forenza": {
+        "eventi": [
+            {
+                "nome": "Sagra del grano",
+                "data": "5 agosto"
+            },
+            {
+                "nome": "Festa di Santa Lucia",
+                "data": "13 dicembre"
+            }
+        ],
+        "numeri_utili": [
+            {
+                "nome": "Municipio",
+                "numero": "0971 981111"
+            },
+            {
+                "nome": "Farmacia",
+                "numero": "0971 981123"
+            }
+        ],
+        "link_mappa": "https://www.google.com/maps/d/embed?mid=17XRZzLatSb-B-Wb6Az56BPgsTn9xADc&ehbc=2E312F&noprof=1",
+        "link_youtube": "https://www.youtube.com/embed/dIB4EQcJ6sQ?si=FaQCFjd-1wnKQ1DZ",
+        "link_youtube_inglese": "https://www.youtube.com/embed/t3PXVDSNfdU?si=mZOk8UN5Bj3OzxCi"
+    }
+}

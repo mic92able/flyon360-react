@@ -1,0 +1,2802 @@
+[
+  {
+    "context": "town",
+    "key": "Pietragalla",
+    "id": "Pietragalla:Monte Torretta",
+    "center": [
+      -150.0775212090728,
+      31.571804446027294,
+      -472.066
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/PIETRAGALLA/Area Archeologica Monte Torretta.jpg",
+      "town": null,
+      "site": "Monte Torretta"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Pietragalla",
+    "id": "Pietragalla:Chiesa Madre San Nicola di Bari",
+    "center": [
+      -222.01602858168525,
+      140.21315299401238,
+      -421.73883
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/PIETRAGALLA/Chiesa Madre San Nicola di Bari.jpg",
+      "town": null,
+      "site": "Chiesa Madre San Nicola di Bari"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Pietragalla",
+    "id": "Pietragalla:Vicolo Saittera",
+    "center": [
+      -286.9209263918884,
+      83.77631265033685,
+      -397.6199
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/PIETRAGALLA/Vicoli - Saittera - Campanile.jpg",
+      "town": null,
+      "site": "Vicolo Saittera"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Pietragalla",
+    "id": "Pietragalla:Museo Civiltà Contadina",
+    "center": [
+      -414.38533803179246,
+      72.38731599421835,
+      -263.5297094
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/PIETRAGALLA/Casa Museo della Civiltà Contadina Contadina.jpg",
+      "town": null,
+      "site": "Museo Civiltà Contadina"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Pietragalla",
+    "id": "Pietragalla:Parco urbano dei Palmenti",
+    "center": [
+      479.6714726995387,
+      120.56636123155548,
+      -49.22127422136
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/PIETRAGALLA/Parco Urbano dei Palmenti.jpg",
+      "town": null,
+      "site": "Parco urbano dei Palmenti"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Pietragalla",
+    "id": "PVPietragalla",
+    "vertices": [
+      354.7552399834443,
+      19.712227498720555,
+      346.6684541,
+      154.55711166819862,
+      21.350734322966126,
+      471.420794,
+      153.4082985618909,
+      52.614086657876015,
+      468.579419578,
+      352.94368771524904,
+      51.45073913469162,
+      344.09890051628
+    ],
+    "action": {
+      "type": "video"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Forenza",
+    "id": "Forenza:Palazzo Veltri",
+    "center": [
+      -372.0174463144053,
+      -93.18768155969043,
+      -319.936016544
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/FORENZA/Palazzo Veltri.jpg",
+      "town": null,
+      "site": "Palazzo Veltri"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Forenza",
+    "id": "Forenza:Arco Mario Brienza",
+    "center": [
+      -347.45760096840274,
+      30.370837496475207,
+      -352.15234009
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/FORENZA/Arco Mario Brienza.jpg",
+      "town": null,
+      "site": "Arco Mario Brienza"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Forenza",
+    "id": "Forenza:Chiesa Madre di San Nicola e Santa Maria SS",
+    "center": [
+      -298.73015058968804,
+      140.1109409046572,
+      -371.59526
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/FORENZA/Chiesa Madre di San Nicola e Santa Maria S.S..jpg",
+      "town": null,
+      "site": "Chiesa Madre di San Nicola e Santa Maria SS"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Forenza",
+    "id": "Forenza:Chiesa Annunziata",
+    "center": [
+      -92.62470638426653,
+      -130.48746077956213,
+      -469.178282
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/FORENZA/Chiesa dell_Annunziata.jpg",
+      "town": null,
+      "site": "Chiesa Annunziata"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Forenza",
+    "id": "Forenza:Piazzetta Arte Urbana",
+    "center": [
+      3.52381040642598,
+      -177.0613434307407,
+      -464.093970486
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/FORENZA/PIAZZETTA_ARTE_URBANA.jpg",
+      "town": null,
+      "site": "Piazzetta Arte Urbana"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Forenza",
+    "id": "Forenza:Casa Contadina",
+    "center": [
+      -44.627343904909054,
+      11.55194584795144,
+      -496.0641907
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/FORENZA/CasaContadina.jpg",
+      "town": null,
+      "site": "Casa Contadina"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Forenza",
+    "id": "Forenza:Santa Maria della Stella",
+    "center": [
+      217.09067065653267,
+      135.107972562632,
+      -425.1465435075
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/FORENZA/Santuario del S.S. Crocifisso e Santa Maria della Stella.jpg",
+      "town": null,
+      "site": "Santa Maria della Stella"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Forenza",
+    "id": "PVForenza",
+    "vertices": [
+      -399.51487266458105,
+      -45.76209761889091,
+      290.9006804287,
+      -488.3689950020681,
+      -43.97353989525888,
+      70.65903746466,
+      -491.5936243335241,
+      -11.508314861054458,
+      70.68296018394,
+      -402.70021268348154,
+      -11.619030033189674,
+      292.1236979
+    ],
+    "action": {
+      "type": "video"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Acerenza",
+    "id": "Acerenza:Cripta Ferrillo",
+    "center": [
+      -357.73194122356324,
+      102.26485088371945,
+      -331.36364165119
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/ACERENZA/CriptaFerrillo.jpg",
+      "town": null,
+      "site": "Cripta Ferrillo"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Acerenza",
+    "id": "Acerenza:Cattedrale S Maria Assunta",
+    "center": [
+      -237.18259306448584,
+      268.1176048535982,
+      -345.634529294
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/ACERENZA/CattedraleSANTAMARIAASSUNTA.jpg",
+      "town": null,
+      "site": "Cattedrale S Maria Assunta"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Acerenza",
+    "id": "Acerenza:Museo Diocesano",
+    "center": [
+      428.19820497936973,
+      211.92722228896187,
+      141.015427698
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/ACERENZA/MuseoDiocesano.jpg",
+      "town": null,
+      "site": "Museo Diocesano"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Acerenza",
+    "id": "Acerenza:Chiesetta S Vincenzo Ferrer",
+    "center": [
+      484.03756933965064,
+      19.238542779183724,
+      106.95433792247
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/ACERENZA/ChiesettaSanVincenzoFerrer.jpg",
+      "town": null,
+      "site": "Chiesetta S Vincenzo Ferrer"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Acerenza",
+    "id": "Acerenza:Archivio Diocesano",
+    "center": [
+      453.6892476635736,
+      18.77407073460332,
+      199.8507161
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/ACERENZA/ArchivioDiocesanoeBiblioteca.jpg",
+      "town": null,
+      "site": "Archivio Diocesano"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Acerenza",
+    "id": "PVAcerenza",
+    "vertices": [
+      154.90999257088353,
+      15.175977190544543,
+      -447.15447997292796,
+      364.92548659714737,
+      16.895373882749162,
+      -335.91422324948746,
+      355.8661333774804,
+      48.505631696049186,
+      -324.8713802143995,
+      163.45334925733684,
+      49.58758849477058,
+      -463.71924536806915
+    ],
+    "action": {
+      "type": "video"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Laghi di Monticchio",
+    "id": "Laghi di Monticchio:Lago Grande",
+    "center": [
+      -161.2776325198397,
+      210.2825981656282,
+      -419.72100734
+    ],
+    "radius": 60.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/LAGHI DI MONTICCHIO/LAGO_GRANDE.jpg",
+      "town": null,
+      "site": "Lago Grande"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Laghi di Monticchio",
+    "id": "Laghi di Monticchio:Lago Piccolo",
+    "center": [
+      397.2961541324544,
+      133.35914687445114,
+      264.70304572
+    ],
+    "radius": 70.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/LAGHI DI MONTICCHIO/LAGO_PICCOLO.jpg",
+      "town": null,
+      "site": "Lago Piccolo"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Laghi di Monticchio",
+    "id": "PVMonticchio",
+    "vertices": [
+      126.11437002571918,
+      13.938764236026376,
+      -457.15408174062367,
+      385.724943700534,
+      13.578842468396282,
+      -298.3121878703255,
+      381.6179574673131,
+      53.65566042332097,
+      -296.62325389518514,
+      133.6021997435845,
+      54.146942835258926,
+      -474.4972058136016
+    ],
+    "action": {
+      "type": "video"
+    }
+  },
+  {
+    "context": "town",
+    "key": "San Fele",
+    "id": "San Fele:Santa Maria della Quercia",
+    "center": [
+      -278.7944926080509,
+      109.65040027523605,
+      -396.829920292
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/VR_SAN FELE/SITI_FOTO_WEB/web_ChiesaMadreSantaMariadellaQuercia.jpg",
+      "town": null,
+      "site": "Santa Maria della Quercia"
+    }
+  },
+  {
+    "context": "town",
+    "key": "San Fele",
+    "id": "San Fele:Chiesetta dell' Annunziata",
+    "center": [
+      -113.51089392980663,
+      64.52931731836757,
+      -478.965114232
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/VR_SAN FELE/SITI_FOTO_WEB/Piazza-ChiesettaDell_Annunziata.jpg",
+      "town": null,
+      "site": "Chiesetta dell' Annunziata"
+    }
+  },
+  {
+    "context": "town",
+    "key": "San Fele",
+    "id": "San Fele:Santa Maria di Pierno",
+    "center": [
+      121.780323499346,
+      113.93570237197987,
+      -467.7386122862
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/VR_SAN FELE/SITI_FOTO_WEB/web_SantuarioSantaMariadiPierno.jpg",
+      "town": null,
+      "site": "Santa Maria di Pierno"
+    }
+  },
+  {
+    "context": "town",
+    "key": "San Fele",
+    "id": "San Fele:Cascata degli Innamorati",
+    "center": [
+      281.02512386926895,
+      68.12825175118796,
+      403.15269026
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/VR_SAN FELE/SITI_FOTO_WEB/web_Cascata_dei_iInnamorati.jpg",
+      "town": null,
+      "site": "Cascata degli Innamorati"
+    }
+  },
+  {
+    "context": "town",
+    "key": "San Fele",
+    "id": "San Fele:Cascata U Uattenniere",
+    "center": [
+      233.9242286980419,
+      -37.27775541931463,
+      436.44085974292
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/VR_SAN FELE/SITI_FOTO_WEB/web_CascataU_Uattenniere.jpg",
+      "town": null,
+      "site": "Cascata U Uattenniere"
+    }
+  },
+  {
+    "context": "town",
+    "key": "San Fele",
+    "id": "PVSanfele",
+    "vertices": [
+      -352.28714181297835,
+      25.760547117578014,
+      347.972058996394,
+      -475.7958683585322,
+      25.811798023094873,
+      141.93635992878993,
+      -472.96685711317144,
+      60.4632029267374,
+      139.82846009856257,
+      -347.4694700468028,
+      59.98787024941927,
+      348.17550825724675
+    ],
+    "action": {
+      "type": "video"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Lagopesole",
+    "id": "Lagopesole:Piazzetta Lagopesole",
+    "center": [
+      -310.55890738093893,
+      99.89359801211133,
+      -377.10838547
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/VR_LAGOPESOLE/WEB-FOTO-SITI/PiazzaLAGOPESOLE.jpg",
+      "town": null,
+      "site": "Piazzetta Lagopesole"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Lagopesole",
+    "id": "Lagopesole:Castello Lagopesole",
+    "center": [
+      -252.57487391284474,
+      211.28293491458862,
+      -371.6699245
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/VR_LAGOPESOLE/WEB-FOTO-SITI/castelloLagoPesole.jpg",
+      "town": null,
+      "site": "Castello Lagopesole"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Lagopesole",
+    "id": "PVLagopesole",
+    "vertices": [
+      415.1182846149176,
+      47.23192467502878,
+      -265.89611606067547,
+      493.7901297754853,
+      47.10059088396197,
+      -37.28312643212453,
+      490.19696672304104,
+      82.81353810314666,
+      -37.52438092451439,
+      411.0249468974176,
+      82.62025063926261,
+      -265.883690958313
+    ],
+    "action": {
+      "type": "video"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Melfi",
+    "id": "Melfi:Castello di Melfi",
+    "center": [
+      -137.574789947921,
+      119.2453095521042,
+      -462.921799429
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/MELFI/WEB-FOTO-SITI/CastellodiMelfi.jpg",
+      "town": null,
+      "site": "Castello di Melfi"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Melfi",
+    "id": "Melfi:Museo Diocesano Melfi",
+    "center": [
+      371.25660595123867,
+      19.154696954198723,
+      -328.91974506
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/MELFI/WEB-FOTO-SITI/MuseoDiocesano.jpg",
+      "town": null,
+      "site": "Museo Diocesano Melfi"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Melfi",
+    "id": "Melfi:Porta Venosina",
+    "center": [
+      483.13885330349774,
+      -54.3664029279327,
+      95.32921815
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/MELFI/WEB-FOTO-SITI/PortaVenosina.jpg",
+      "town": null,
+      "site": "Porta Venosina"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Melfi",
+    "id": "Melfi:Santa Margherita",
+    "center": [
+      -24.052997571658437,
+      4.3623744735645404,
+      496.7044166
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/MELFI/WEB-FOTO-SITI/ChiesadiSantaMargherita.jpg",
+      "town": null,
+      "site": "Santa Margherita"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Melfi",
+    "id": "Melfi:Assunta Melfi",
+    "center": [
+      320.22022248895905,
+      82.36337738504672,
+      -373.115814086
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/MELFI/WEB-FOTO-SITI/CattedraleSantaMariaAssunta.jpg",
+      "town": null,
+      "site": "Assunta Melfi"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Melfi",
+    "id": "PVMelfi",
+    "vertices": [
+      387.89713062744687,
+      37.34639581085495,
+      306.95325603141185,
+      190.7868082001683,
+      39.045345327287706,
+      455.6593242527072,
+      188.46128478259243,
+      72.6348673535127,
+      453.0253143811956,
+      386.1951058180769,
+      73.78907488042846,
+      303.17278137383676
+    ],
+    "action": {
+      "type": "video"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Venosa",
+    "id": "Venosa:Piazza Castello",
+    "center": [
+      -311.73607928833474,
+      89.30842482581164,
+      -378.0816834
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/VENOSA/WEB_FOTO_SITI/Piazza, Castello di Venosa.jpg",
+      "town": null,
+      "site": "Piazza Castello"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Venosa",
+    "id": "Venosa:Vicolo Gravattone",
+    "center": [
+      321.64560123815943,
+      -102.70092242964817,
+      -367.783093
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/VENOSA/WEB_FOTO_SITI/vicoGRAVATTONE.jpg",
+      "town": null,
+      "site": "Vicolo Gravattone"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Venosa",
+    "id": "Venosa:San Andrea",
+    "center": [
+      440.74542639112457,
+      90.0854239492834,
+      -215.68562436317
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/VENOSA/WEB_FOTO_SITI/CattedralediSant_Andrea.jpg",
+      "town": null,
+      "site": "San Andrea"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Venosa",
+    "id": "Venosa:Casa Orazio",
+    "center": [
+      471.92746760815237,
+      -47.98808613938163,
+      -145.9496666
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/VENOSA/WEB_FOTO_SITI/CASADIORAZIO.jpg",
+      "town": null,
+      "site": "Casa Orazio"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Venosa",
+    "id": "Venosa:Trinità",
+    "center": [
+      482.02862275853545,
+      116.89292670671661,
+      12.49239366395
+    ],
+    "radius": 37.0,
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/VENOSA/WEB_FOTO_SITI/SS TrinitàVenosa.jpg",
+      "town": null,
+      "site": "Trinità"
+    }
+  },
+  {
+    "context": "town",
+    "key": "Venosa",
+    "id": "PVVenosa",
+    "vertices": [
+      403.1352150680609,
+      18.24268582486595,
+      288.63974671987285,
+      215.85776482061112,
+      18.732039853024276,
+      448.17055480372164,
+      214.03977673830553,
+      53.552094197165175,
+      445.2125795030083,
+      400.57737066950165,
+      54.1133467372202,
+      286.16714573575524
+    ],
+    "action": {
+      "type": "video"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Museo Civiltà Contadina",
+    "id": "AGCont",
+    "vertices": [
+      -450.8055628974503,
+      -45.64736963342486,
+      -199.851250057,
+      -257.9762631058937,
+      -47.55022432568786,
+      -420.0775151097,
+      -257.38170346329684,
+      5.709993888500939,
+      -425.3014752,
+      -455.8599628813044,
+      5.724430659328647,
+      -198.12048429
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/PIETRAGALLA/",
+      "suffix": "/PIETRAGALLA_CasaMuseodellaCiviltàContadina.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Museo Civiltà Contadina",
+    "id": "CUCont",
+    "vertices": [
+      -450.75341989397293,
+      -114.19621875309153,
+      -175.1078331491,
+      -230.70709104913357,
+      -115.84969978209219,
+      -424.95238369,
+      -239.2764781404149,
+      -62.5463304359848,
+      -430.1360832,
+      -457.495316960074,
+      -64.73668458493293,
+      -180.229873474
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/PIETRAGALLA/MENU_360/PIETRAGALLA_360_MENU_inv.jpg",
+      "town": "Pietragalla",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Vicolo Saittera",
+    "id": "AGSaitt",
+    "vertices": [
+      451.1574322347311,
+      -36.226317934931544,
+      -203.28880542500937,
+      486.7427807468148,
+      -33.73878299460644,
+      88.56621579344693,
+      489.0072947943644,
+      15.091808410157732,
+      86.84090271398264,
+      452.8172925765109,
+      14.68065100307885,
+      -204.8578775790379
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/PIETRAGALLA/",
+      "suffix": "/PIETRAGALLA_VicoloSaittera.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Vicolo Saittera",
+    "id": "CUSaitt",
+    "vertices": [
+      431.8153244323392,
+      -119.70736312029359,
+      -217.6452292690988,
+      469.33156870227197,
+      -118.48177316518988,
+      108.52709483870981,
+      478.6202785361744,
+      -69.41545151695809,
+      108.60942688045228,
+      440.86862396444263,
+      -68.79974947315858,
+      -221.11442953488464
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/PIETRAGALLA/MENU_360/PIETRAGALLA_360_MENU_inv.jpg",
+      "town": "Pietragalla",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Chiesa Madre San Nicola di Bari",
+    "id": "AGsanNicolaBari",
+    "vertices": [
+      393.1827527888671,
+      -32.67447803776678,
+      -303.3426890717984,
+      495.21060553892084,
+      -32.863113955704826,
+      -25.459324473871334,
+      496.4753845798212,
+      20.316066980161946,
+      -26.773757103332997,
+      393.2484447016691,
+      22.323625158975478,
+      -305.14010897280514
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/PIETRAGALLA/",
+      "suffix": "/PIETRAGALLA_ChiesaMadreSanNicoladiBari.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Chiesa Madre San Nicola di Bari",
+    "id": "CUsanNicolaBari",
+    "vertices": [
+      372.86856679190197,
+      -103.02923358147655,
+      -313.6522093407845,
+      485.93257101650397,
+      -105.22366807675647,
+      -1.9703841620351739,
+      492.4521361486888,
+      -54.84514996586018,
+      -2.5015608252040806,
+      379.7816182152712,
+      -53.84245990254555,
+      -314.99498920941244
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/PIETRAGALLA/MENU_360/PIETRAGALLA_360_MENU_inv.jpg",
+      "town": "Pietragalla",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Monte Torretta",
+    "id": "AGtorretta",
+    "vertices": [
+      15.315619433160975,
+      -5.826578333150749,
+      -496.79038556410325,
+      294.6375000522246,
+      -4.130690397254213,
+      -400.58954866024663,
+      291.5187082710056,
+      45.58706203364059,
+      -397.81800673976943,
+      15.097697724507299,
+      46.81920214975716,
+      -492.77674215167906
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/PIETRAGALLA/",
+      "suffix": "/PIETRAGALLA_MonteTorretta.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Monte Torretta",
+    "id": "CUtorretta",
+    "vertices": [
+      -2.724492743148147,
+      -73.45123395130459,
+      -490.63364856282647,
+      308.51615742676194,
+      -75.11042479678883,
+      -382.2594969742065,
+      311.6772231013543,
+      -23.92703657375408,
+      -386.168708934174,
+      -2.630428357157143,
+      -22.596149423921133,
+      -495.61756500895706
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/PIETRAGALLA/MENU_360/PIETRAGALLA_360_MENU_inv.jpg",
+      "town": "Pietragalla",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Parco urbano dei Palmenti",
+    "id": "AGpalmenti",
+    "vertices": [
+      -100.73349618863374,
+      -32.542654682621446,
+      -484.3407030864584,
+      193.47804614514266,
+      -32.30741558027804,
+      -455.07508828705744,
+      194.95344580201726,
+      18.184296800566578,
+      -455.93343126240984,
+      -102.69531032975918,
+      22.782285510160158,
+      -484.97446467802433
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/PIETRAGALLA/",
+      "suffix": "/PIETRAGALLA_ParcoUrbanodeiPalmenti.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Parco urbano dei Palmenti",
+    "id": "CUpalmenti",
+    "vertices": [
+      -120.35846052712226,
+      -104.68078541577859,
+      -472.3199001243892,
+      210.4774485427061,
+      -101.38628094163411,
+      -439.23554235936695,
+      212.39728080209272,
+      -53.33781440582402,
+      -444.39327601452317,
+      -122.53480514936575,
+      -50.25729890902919,
+      -478.8346909987687
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/PIETRAGALLA/MENU_360/PIETRAGALLA_360_MENU_inv.jpg",
+      "town": "Pietragalla",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Palazzo Veltri",
+    "id": "AGveltri",
+    "vertices": [
+      443.6598089696777,
+      -90.33345076312919,
+      -208.02362623541043,
+      489.20403432506794,
+      -89.29386129900504,
+      -7.435896137027555,
+      492.8659719268289,
+      -52.192147589761504,
+      -8.352486528581494,
+      447.35147683869565,
+      -53.4921466211579,
+      -208.4827503707132
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/FORENZA/",
+      "suffix": "/PALAZZO_Veltri.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Palazzo Veltri",
+    "id": "CUveltri",
+    "vertices": [
+      425.33281374834024,
+      -137.92210316764059,
+      -217.615159622342,
+      476.09811437017174,
+      -136.68607778318338,
+      10.710079027366817,
+      486.4226355041832,
+      -102.65118927384563,
+      8.946718313812227,
+      436.47580791609374,
+      -102.35222559835975,
+      -220.07720360558133
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/FORENZA/MENU_360/FORENZA_360_MENU_inv.jpg",
+      "town": "Forenza",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Arco Mario Brienza",
+    "id": "AGbrienza",
+    "vertices": [
+      -474.27209604924803,
+      -43.00956905515036,
+      141.20213007080451,
+      -470.6880738089028,
+      -43.96089816247777,
+      -154.95175356533466,
+      -473.17854932235673,
+      11.128739408863176,
+      -157.92905564354348,
+      -476.5855602283881,
+      12.34807459470484,
+      143.56189470133666
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/FORENZA/",
+      "suffix": "/arco_mario_brienza.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Arco Mario Brienza",
+    "id": "CUbrienza",
+    "vertices": [
+      -454.8824034538036,
+      -117.75959948848683,
+      159.77524724918976,
+      -452.76631219709896,
+      -116.0230267867162,
+      -169.23220415508214,
+      -460.041930624231,
+      -64.50824536378664,
+      -174.5664295835984,
+      -464.5104175464801,
+      -64.18552054484138,
+      160.84549355425898
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/FORENZA/MENU_360/FORENZA_360_MENU_inv.jpg",
+      "town": "Forenza",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Chiesa Madre di San Nicola e Santa Maria SS",
+    "id": "AGsnsm",
+    "vertices": [
+      496.04347729149583,
+      -9.940474012205463,
+      28.392554491311785,
+      390.7599688818158,
+      -9.425572729249925,
+      307.64440962905496,
+      388.7901422499302,
+      42.85005709037552,
+      304.7553207758801,
+      492.838154055785,
+      42.64753673012186,
+      28.330204855865134
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/FORENZA/",
+      "suffix": "/CHIESA_MADRE.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Chiesa Madre di San Nicola e Santa Maria SS",
+    "id": "CUsnsm",
+    "vertices": [
+      489.9018437719893,
+      -78.00785327254002,
+      8.125053925865956,
+      374.54845515555087,
+      -79.6610903106473,
+      318.6523222172936,
+      378.01600911413937,
+      -28.595585344408995,
+      322.41818966156933,
+      494.9431695833362,
+      -26.53952501476421,
+      8.322706897449706
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/FORENZA/MENU_360/FORENZA_360_MENU_inv.jpg",
+      "town": "Forenza",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Chiesa Annunziata",
+    "id": "AGannunziata",
+    "vertices": [
+      155.54500178138147,
+      34.467373202217175,
+      -471.50785741293976,
+      397.2656942175624,
+      32.40489573013606,
+      -296.9199315793979,
+      393.56845990095746,
+      85.63418814924047,
+      -293.002039838442,
+      151.48657758759853,
+      87.30514121511295,
+      -467.11648413847644
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/FORENZA/",
+      "suffix": "/Chiesadell_Annunziata.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Chiesa Annunziata",
+    "id": "CUannunziata",
+    "vertices": [
+      136.2397391868655,
+      -33.87947845930308,
+      -475.9369928796507,
+      406.3016002790014,
+      -36.80561007426227,
+      -281.7877491993349,
+      408.84048926596256,
+      15.108655331971617,
+      -281.7490470226266,
+      136.43499604638166,
+      16.39881581761407,
+      -477.64954865096644
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/FORENZA/MENU_360/FORENZA_360_MENU_inv.jpg",
+      "town": "Forenza",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Casa Contadina",
+    "id": "AGcontadina",
+    "vertices": [
+      57.41411070250231,
+      -60.76300536368453,
+      -490.2978670522839,
+      329.9824258544849,
+      -60.69958448906361,
+      -366.50477797926794,
+      332.4828218644641,
+      -7.250338442141668,
+      -371.4809568654184,
+      60.190500818410044,
+      -7.1070655949854,
+      -495.48594829276675
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/FORENZA/",
+      "suffix": "/casa_contadina.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Casa Contadina",
+    "id": "CUcontadina",
+    "vertices": [
+      35.45795377348841,
+      -128.7183623068684,
+      -477.85414327280563,
+      336.29748109798055,
+      -129.22882808884316,
+      -340.7054612210315,
+      342.3018846978259,
+      -79.05390341149705,
+      -350.90681407150487,
+      35.48754812285,
+      -79.63799636844489,
+      -489.02317846160224
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/FORENZA/MENU_360/FORENZA_360_MENU_inv.jpg",
+      "town": "Forenza",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Piazzetta Arte Urbana",
+    "id": "AGarteUrbana",
+    "vertices": [
+      492.36960931457196,
+      -24.928738309713744,
+      67.62025493152129,
+      240.19204188306034,
+      -22.918472310657542,
+      434.15101100548384,
+      241.62178191174144,
+      56.580931423040894,
+      429.3479180883673,
+      490.02399112409626,
+      55.243882960330865,
+      64.52363643021431
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/FORENZA/",
+      "suffix": "/piazetta_arte_urbana.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Piazzetta Arte Urbana",
+    "id": "CUarteUrbana",
+    "vertices": [
+      479.8443074576632,
+      -121.85108068163962,
+      38.64353368454934,
+      210.52994093160055,
+      -122.41921351640462,
+      433.89772531284643,
+      217.14505509249892,
+      -48.93472815309965,
+      444.5056404191728,
+      491.8355239106814,
+      -49.80004484419823,
+      39.80019059344676
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/FORENZA/MENU_360/FORENZA_360_MENU_inv.jpg",
+      "town": "Forenza",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Santa Maria della Stella",
+    "id": "AGsantaMariaStella",
+    "vertices": [
+      -350.5697943022919,
+      -20.566490926850925,
+      -350.5241996534663,
+      -88.78826081991438,
+      -19.028196712724004,
+      -487.7362724635332,
+      -89.27330047383683,
+      36.733239742786125,
+      -485.89216671857986,
+      -351.2183417402308,
+      34.47457446696237,
+      -348.02965593310563
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/FORENZA/",
+      "suffix": "/SANTUARIO_DELS_CROCIFISSO.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Santa Maria della Stella",
+    "id": "CUsantaMariaStella",
+    "vertices": [
+      -361.1682329009478,
+      -89.43260757511428,
+      -331.16348760456003,
+      -67.55998900779204,
+      -88.85195126666443,
+      -484.4379852984431,
+      -68.10723738222362,
+      -38.1746882994835,
+      -489.383960625096,
+      -365.8603861597577,
+      -39.880849559235166,
+      -333.40675836967546
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/FORENZA/MENU_360/FORENZA_360_MENU_inv.jpg",
+      "town": "Forenza",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Chiesetta S Vincenzo Ferrer",
+    "id": "AGferrer",
+    "vertices": [
+      465.00064225537733,
+      -3.659100923617693,
+      -101.22983622455104,
+      414.5599586929882,
+      -3.455246155077793,
+      179.9990041715844,
+      412.81911709502504,
+      48.53466650803251,
+      178.49460541935545,
+      481.5718437473355,
+      51.84214084963421,
+      -105.67971270839125
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/ACERENZA/",
+      "suffix": "/ChiesettaSanVincenzoFerrer.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Chiesetta S Vincenzo Ferrer",
+    "id": "CUferrer",
+    "vertices": [
+      448.4287459332854,
+      -68.70512903860754,
+      -118.6640296541058,
+      386.24011426059997,
+      -65.46628985383633,
+      191.1978723584944,
+      402.76578772187884,
+      -17.530860742927107,
+      197.62701929163708,
+      460.1403836189447,
+      -16.612982919031687,
+      -122.42507056516952
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/ACERENZA/MENU_360/2_ACERENZA_360_MENU.jpg",
+      "town": "Acerenza",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Archivio Diocesano",
+    "id": "AGarchivio",
+    "vertices": [
+      -325.43803108770044,
+      -35.023444669887525,
+      -344.0429089679429,
+      87.59900201111964,
+      -35.174435240514654,
+      -462.99457188605163,
+      89.87509479475077,
+      39.89011945918102,
+      -467.60074046361854,
+      -337.1495989888065,
+      40.80604990796924,
+      -360.5226549400257
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/ACERENZA/",
+      "suffix": "/ArchivioDiocesanoEBiblioteca.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Archivio Diocesano",
+    "id": "CUarchivio",
+    "vertices": [
+      -347.3486239645645,
+      -134.9358103824166,
+      -327.61948492231414,
+      115.11951208421613,
+      -137.786609136689,
+      -461.8639625244076,
+      111.78753510559955,
+      -58.633714215739104,
+      -452.27010395201296,
+      -351.7137013039709,
+      -63.78448132318093,
+      -338.5431432646129
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/ACERENZA/MENU_360/2_ACERENZA_360_MENU.jpg",
+      "town": "Acerenza",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Cripta Ferrillo",
+    "id": "AGferrillo",
+    "vertices": [
+      -366.75492949853464,
+      -12.316140861886922,
+      334.638178453893,
+      -474.68245372346775,
+      -10.508503273182221,
+      57.447024744137735,
+      -490.05694450615937,
+      40.07437708784186,
+      63.08867653727057,
+      -364.1738136004131,
+      40.96785884456866,
+      333.2783868455547
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/ACERENZA/",
+      "suffix": "/CriptaFERRILLO.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Cripta Ferrillo",
+    "id": "CUferrillo",
+    "vertices": [
+      -347.8288565467526,
+      -81.52668783183735,
+      344.72947483356796,
+      -460.84148417280534,
+      -75.5186521114697,
+      36.494108146576195,
+      -473.7513466440924,
+      -27.36604752186642,
+      37.63811714680995,
+      -353.47852622994003,
+      -27.3688436936812,
+      346.48736107684516
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/ACERENZA/MENU_360/2_ACERENZA_360_MENU.jpg",
+      "town": "Acerenza",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Cattedrale S Maria Assunta",
+    "id": "AGcattassunta",
+    "vertices": [
+      477.3702811782276,
+      -5.181908612449263,
+      -0.48512926075012786,
+      358.38154844215785,
+      -5.351123609757639,
+      261.7325702563345,
+      357.113825678971,
+      43.7134708505252,
+      260.72597419656194,
+      455.70207794217066,
+      45.835045427227215,
+      -4.328403985534081
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/ACERENZA/",
+      "suffix": "/cattedraleSANTA_MARIA_ASSUNTA.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Cattedrale S Maria Assunta",
+    "id": "CUcattassunta",
+    "vertices": [
+      462.42858404230685,
+      -76.51322637571214,
+      -20.907299643809182,
+      332.459007109273,
+      -73.1222985165937,
+      268.3910227683021,
+      394.43989030533595,
+      -28.300837249719198,
+      299.2331531665369,
+      440.7865573854417,
+      -26.071099619914843,
+      -25.315877323243
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/ACERENZA/MENU_360/2_ACERENZA_360_MENU.jpg",
+      "town": "Acerenza",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Museo Diocesano",
+    "id": "AGmuseo",
+    "vertices": [
+      408.67058310683535,
+      -43.2877816545351,
+      121.90797242732856,
+      157.0387447519497,
+      -44.89513330156148,
+      467.9965657213577,
+      157.8914729052674,
+      32.71397412471666,
+      468.0465656091457,
+      414.42219408363337,
+      33.20357166966671,
+      120.81690232229795
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/ACERENZA/",
+      "suffix": "/MuseoDiocesano_SezioneArcheologica.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Museo Diocesano",
+    "id": "CUmuseo",
+    "vertices": [
+      459.9678201194092,
+      -139.48618898867213,
+      121.1720328913114,
+      123.45165695498183,
+      -138.62601766730197,
+      461.3910383445061,
+      131.40475202229575,
+      -66.33711024623247,
+      475.5829134787921,
+      408.2347163026469,
+      -62.016234150133975,
+      89.9675269940094
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/ACERENZA/MENU_360/2_ACERENZA_360_MENU.jpg",
+      "town": "Acerenza",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Museo Diocesano",
+    "id": "galleriastemmi",
+    "vertices": [
+      -333.3674778068996,
+      -16.003023292364908,
+      369.3021315601945,
+      -473.8805623116419,
+      -15.835385658543611,
+      5.189959012911544,
+      -493.5022404173846,
+      45.887003327876826,
+      9.039424378456204,
+      -327.983047599689,
+      46.56494619599723,
+      370.62489606263887
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/ACERENZA/MuseoDiocesanoGalleriadegliStemmi.jpg",
+      "town": null,
+      "site": "Galleria degli Stemmi"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Museo Diocesano",
+    "id": "salaespositiva",
+    "vertices": [
+      -363.3629339921353,
+      -101.71272718960086,
+      324.2481735610311,
+      -457.22475307342506,
+      -97.09895726486423,
+      55.95272613567374,
+      -464.58475755533925,
+      -38.493077858794265,
+      54.49038817521938,
+      -360.40614174191444,
+      -39.05854881031318,
+      325.18695001027106
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/ACERENZA/MuseoDiocesanoSala.jpg",
+      "town": null,
+      "site": "Sala Espositiva"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Galleria degli Stemmi",
+    "id": "AGgalleriastemmi",
+    "vertices": [
+      -318.62432356223024,
+      -59.29997714203985,
+      377.0122267113868,
+      -491.23099681088866,
+      -59.15813896152546,
+      -27.884062972755174,
+      -494.83575223001355,
+      22.893615705652955,
+      -26.0193782331919,
+      -319.70197442454247,
+      23.179527032640973,
+      380.586084436651
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/ACERENZA/",
+      "suffix": "/MuseoDiocesano_GalleriadegliStemmi.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Galleria degli Stemmi",
+    "id": "CUgalleriastemmi",
+    "vertices": [
+      -281.4859752250688,
+      -149.13497454080849,
+      379.6008586236411,
+      -471.96421839572713,
+      -146.6273144727753,
+      -53.79001834576539,
+      -460.1104197638462,
+      -72.5360927883663,
+      -59.803797607185516,
+      -291.4964924522865,
+      -75.1508081566679,
+      394.2851162138503
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/ACERENZA/MENU_360/2_ACERENZA_360_MENU.jpg",
+      "town": "Acerenza",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Galleria degli Stemmi",
+    "id": "museo",
+    "vertices": [
+      -347.27980820270034,
+      -192.15395995621617,
+      -303.61609375992765,
+      -93.97124011811704,
+      -189.327182141282,
+      -450.92407579028225,
+      -75.09093710074814,
+      -124.25102798938599,
+      -405.3022192417628,
+      -357.72198463379914,
+      -146.20414701472453,
+      -313.0879272958854
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/ACERENZA/MuseoDiocesano.jpg",
+      "town": null,
+      "site": "Museo Diocesano"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Galleria degli Stemmi",
+    "id": "sala",
+    "vertices": [
+      337.59537376766656,
+      -213.53830469589474,
+      -294.9404611061634,
+      446.2631815653549,
+      -212.03172917277138,
+      -52.49631339926893,
+      465.4331152781587,
+      -162.5364122266852,
+      -57.272119108224786,
+      354.11295054660934,
+      -163.35367245327046,
+      -306.9615093110063
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/ACERENZA/MuseoDiocesanoSala.jpg",
+      "town": null,
+      "site": "Sala Espositiva"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Sala Espositiva",
+    "id": "AGsalaespositiva",
+    "vertices": [
+      -422.06482868247554,
+      -11.206597774906271,
+      140.40296920460887,
+      -473.13547952557315,
+      -9.244242571723166,
+      -83.38850006027315,
+      -487.6092806611596,
+      32.60469607135013,
+      -85.24179121360064,
+      -433.0652036381748,
+      29.97396974023303,
+      143.7647683459613
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/ACERENZA/",
+      "suffix": "/MuseoDiocesano_SALA.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Sala Espositiva",
+    "id": "CUsalaespositiva",
+    "vertices": [
+      -419.936203028793,
+      -54.52011621314716,
+      139.94819600305436,
+      -486.3302267986643,
+      -53.93068384939926,
+      -81.42434309039234,
+      -472.64465027691847,
+      -20.525137688709606,
+      -81.17654205093767,
+      -422.05232382152803,
+      -20.26107168363547,
+      139.29337075125233
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/ACERENZA/MENU_360/2_ACERENZA_360_MENU.jpg",
+      "town": "Acerenza",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Sala Espositiva",
+    "id": "museodasala",
+    "vertices": [
+      -455.5838263342988,
+      135.5886405125985,
+      142.92518715046805,
+      -470.85794336912954,
+      137.7548835487861,
+      -75.43086460452224,
+      -460.2818132435058,
+      172.3115269993893,
+      -74.90085006065112,
+      -444.9885404046786,
+      172.39891336148304,
+      139.51835209296848
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/ACERENZA/MuseoDiocesano.jpg",
+      "town": null,
+      "site": "Museo Diocesano"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Sala Espositiva",
+    "id": "galleriadasala",
+    "vertices": [
+      -466.65865659719384,
+      90.74107559456762,
+      147.9829175738887,
+      -482.4586949947368,
+      92.05300154324938,
+      -81.6025570844788,
+      -473.717158126051,
+      126.63713295294325,
+      -78.00190394993533,
+      -457.4136241253026,
+      126.43089993403011,
+      145.87329429992838
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/ACERENZA/MuseoDiocesanoGalleriadegliStemmi.jpg",
+      "town": null,
+      "site": "Galleria degli Stemmi"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Cascata degli Innamorati",
+    "id": "AGcascata1",
+    "vertices": [
+      427.9742787468845,
+      8.003551454793234,
+      -252.7234235259686,
+      497.396661979691,
+      9.942652650361001,
+      -23.12535875763251,
+      493.2305170971591,
+      52.09110157716764,
+      -21.852018748652938,
+      423.24528265977045,
+      51.96855752756396,
+      -252.14302441175812
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/VR_SAN FELE/",
+      "suffix": "/CascacteDeiInnamorati.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Cascata degli Innamorati",
+    "id": "CUcascata1",
+    "vertices": [
+      415.60628426843186,
+      -52.85916772753359,
+      -264.0887567293897,
+      492.7962734741235,
+      -52.710535010739804,
+      -7.634185430868854,
+      496.89491650184317,
+      -10.862328871423895,
+      -7.458659446243843,
+      418.97370547159176,
+      -11.671677846747095,
+      -266.31726944075785
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/VR_SAN FELE/MENU_360/SANFELE_360_CENTRO.jpg",
+      "town": "San Fele",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Cascata U Uattenniere",
+    "id": "AGcascata2",
+    "vertices": [
+      -242.8555229791707,
+      -8.411593962942717,
+      435.64977174952384,
+      -415.81322022227164,
+      -7.403321262281786,
+      272.11141334272656,
+      -415.23062333200005,
+      33.208246785337565,
+      268.2943255757746,
+      -242.16463401627038,
+      32.99938261696671,
+      433.31924450648125
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/VR_SAN FELE/",
+      "suffix": "/CascacteUATTANNIERE.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Cascata U Uattenniere",
+    "id": "CUcascata2",
+    "vertices": [
+      -224.0664315122211,
+      -68.70412493586275,
+      437.54789224138966,
+      -421.4580976353968,
+      -67.6612423881699,
+      252.0931687405022,
+      -425.1061076480478,
+      -27.38182583212066,
+      253.71006889969487,
+      -224.78438573803672,
+      -26.09616045499243,
+      441.79988305126653
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/VR_SAN FELE/MENU_360/SANFELE_360_CENTRO.jpg",
+      "town": "San Fele",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Santa Maria della Quercia",
+    "id": "AGquercia",
+    "vertices": [
+      369.92569883895,
+      -5.279499529481193,
+      -332.29837910290644,
+      483.723861509628,
+      -4.631231975843134,
+      -120.48782587541156,
+      480.7438931474082,
+      36.59303718618438,
+      -119.33085627467825,
+      366.7061530749094,
+      37.791878497237626,
+      -331.0616851796858
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/VR_SAN FELE/",
+      "suffix": "/ChiesaMadreSantaMaria.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Santa Maria della Quercia",
+    "id": "CUquercia",
+    "vertices": [
+      354.4264311399828,
+      -60.21263973064186,
+      -340.8111547714202,
+      481.5610735278176,
+      -59.30429205350168,
+      -101.4212944219668,
+      485.4667186983131,
+      -17.056481942022636,
+      -103.14474627759245,
+      356.5630350356122,
+      -16.603058485152104,
+      -344.76952914539083
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/VR_SAN FELE/MENU_360/SANFELE_360_CENTRO.jpg",
+      "town": "San Fele",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Chiesetta dell' Annunziata",
+    "id": "AGchiesettaAnnunz",
+    "vertices": [
+      -450.02804036649843,
+      -14.90691641720257,
+      212.06406595215816,
+      -494.143221568478,
+      -14.093230666634431,
+      54.34080425658735,
+      -494.1319585337652,
+      14.388431781638014,
+      54.235448419975,
+      -449.802966248665,
+      15.162173219143021,
+      212.58072118553304
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/VR_SAN FELE/",
+      "suffix": "/ChiesaDell_AnnunziataCasadelSanto.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Chiesetta dell' Annunziata",
+    "id": "CUchiesettaAnnunz",
+    "vertices": [
+      -441.7561963586344,
+      -54.75290618537882,
+      222.2879935289451,
+      -492.30700107224106,
+      -55.186286580209554,
+      41.236610526162764,
+      -495.19177438024485,
+      -26.154278324711786,
+      41.25129514840626,
+      -445.1148179357589,
+      -24.0258979110004,
+      222.37200294508773
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/VR_SAN FELE/MENU_360/SANFELE_360_CENTRO.jpg",
+      "town": "San Fele",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Santa Maria di Pierno",
+    "id": "AGpierno",
+    "vertices": [
+      368.28985037527593,
+      -25.173603707179524,
+      -331.1894559739045,
+      486.3808266816227,
+      -22.78339643366654,
+      95.02894306677831,
+      483.8833438319857,
+      56.69793106834598,
+      91.00518491720706,
+      363.0067261775002,
+      56.85371148278735,
+      -332.2462063107879
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/VR_SAN FELE/",
+      "suffix": "/SantuarioMadonnadiPierno.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Santa Maria di Pierno",
+    "id": "CUpierno",
+    "vertices": [
+      339.9789219321844,
+      -115.97888546572702,
+      -342.63680838761815,
+      467.5202339401683,
+      -114.23385927123775,
+      122.33732715423912,
+      478.89244710274454,
+      -44.56419797700606,
+      118.440055942573,
+      345.4880501247765,
+      -43.28977287900902,
+      -352.6417554110941
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/VR_SAN FELE/MENU_360/SANFELE_360_CENTRO.jpg",
+      "town": "San Fele",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Castello Lagopesole",
+    "id": "AGcastellopesole",
+    "vertices": [
+      473.39487097695996,
+      -36.85139075783168,
+      -145.1726509432271,
+      441.731856831413,
+      -37.51916702163399,
+      222.18489468096396,
+      443.26451366492375,
+      27.03043072292761,
+      221.27043765325456,
+      473.82260604502846,
+      28.00828672888512,
+      -146.47728975882512
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/VR_LAGOPESOLE/",
+      "suffix": "/castello.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Castello Lagopesole",
+    "id": "CUcastellopesole",
+    "vertices": [
+      451.30304619607745,
+      -121.40869087997734,
+      -166.02750904784241,
+      419.20127475906014,
+      -120.53417591904531,
+      240.4210894480206,
+      429.5105036036138,
+      -59.947864745512376,
+      244.22432464332513,
+      462.65542776554116,
+      -57.960359453935624,
+      -167.38214706290293
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/VR_LAGOPESOLE/MENU_360/web_LAGOPESOLE_360.jpg",
+      "town": "Lagopesole",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Piazzetta Lagopesole",
+    "id": "AGpiazzpesole",
+    "vertices": [
+      327.4956772868574,
+      0.9361238659929104,
+      375.0693782070559,
+      53.47891561790041,
+      0.5117200423578128,
+      495.6419574149715,
+      50.95739860547985,
+      53.03882593595482,
+      490.85108070986354,
+      325.6775537355095,
+      54.57056357654372,
+      369.5475785906584
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/VR_LAGOPESOLE/",
+      "suffix": "/piazza.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Piazzetta Lagopesole",
+    "id": "CUpiazzpesole",
+    "vertices": [
+      335.56005153290135,
+      -71.30528914050986,
+      357.9099096761235,
+      31.396523999226844,
+      -72.59163120159823,
+      491.4711617282147,
+      31.76034419271724,
+      -23.061204358479795,
+      496.3372222643163,
+      340.51145014646266,
+      -20.96861434347388,
+      360.0132637290862
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/VR_LAGOPESOLE/MENU_360/web_LAGOPESOLE_360.jpg",
+      "town": "Lagopesole",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Lago Grande",
+    "id": "AGlagogrande",
+    "vertices": [
+      -163.1621718644402,
+      -6.488661237327719,
+      471.3459535955336,
+      -407.65725457260396,
+      -2.208956784687892,
+      174.52202070077468,
+      -449.9435397217606,
+      64.69322630033435,
+      198.66420748962722,
+      -161.92475333630122,
+      61.003810212393915,
+      466.04767085130374
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/LAGHI DI MONTICCHIO/",
+      "suffix": "/LagoGrande.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Lago Grande",
+    "id": "CUlagogrande",
+    "vertices": [
+      -152.40819849642466,
+      -87.41725496704473,
+      466.89659459143274,
+      -383.2017438579935,
+      -76.94733406924115,
+      145.50109190372837,
+      -410.8283088701721,
+      -32.13415004665969,
+      164.130062542715,
+      -156.57388943895776,
+      -36.32636222680855,
+      471.0784009588235
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/LAGHI DI MONTICCHIO/MENU_360/menu_LAGHI_DI_MONTICCHIO.jpg",
+      "town": "Laghi di Monticchio",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Lago Piccolo",
+    "id": "AGlagopiccolo",
+    "vertices": [
+      377.5703140147204,
+      16.559814994458915,
+      -322.63488602696884,
+      434.786788780885,
+      16.832880594940413,
+      62.83274965056464,
+      487.37428798818274,
+      90.52415955723359,
+      57.62224395029432,
+      370.66189254861774,
+      89.26292834060483,
+      -319.56271084313295
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/LAGHI DI MONTICCHIO/",
+      "suffix": "/LagoPiccolo.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Lago Piccolo",
+    "id": "CUlagopiccolo",
+    "vertices": [
+      362.14751096791196,
+      -71.29401381207134,
+      -331.0954007855531,
+      411.16925520955385,
+      -63.80507128607409,
+      72.36962643025184,
+      485.6075024684792,
+      -18.40210130131375,
+      72.82628126983532,
+      350.451892089666,
+      -19.31339724146745,
+      -322.5192987501103
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/LAGHI DI MONTICCHIO/MENU_360/menu_LAGHI_DI_MONTICCHIO.jpg",
+      "town": "Laghi di Monticchio",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Castello di Melfi",
+    "id": "AGcastellomelfi",
+    "vertices": [
+      -424.7355635993295,
+      94.70761554880471,
+      241.9290395025899,
+      -482.8528514933762,
+      94.71330642292378,
+      -78.68025518003975,
+      -465.56842364369606,
+      152.03586674586825,
+      -79.27073314728332,
+      -406.7418241614542,
+      151.24133500594542,
+      239.54940697837418
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/MELFI/",
+      "suffix": "/castello.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Castello di Melfi",
+    "id": "CUcastellomelfi",
+    "vertices": [
+      -420.7437480846466,
+      20.010547440571642,
+      261.9794633248948,
+      -486.5827849083355,
+      18.850075360837764,
+      -95.88297411819048,
+      -479.9092075509817,
+      74.80937864888243,
+      -100.5206981742125,
+      -412.7249710071234,
+      75.50640427931056,
+      264.4956955817785
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/MELFI/MENU_360/MELFI_360.jpg",
+      "town": "Melfi",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Museo Diocesano Melfi",
+    "id": "AGdiocesanomelfi",
+    "vertices": [
+      351.09458593040017,
+      -15.160148090761673,
+      350.75675524863817,
+      145.54491804103412,
+      -14.421017606215237,
+      475.60690902255976,
+      145.05992461400788,
+      25.667669811434592,
+      474.6122788474963,
+      351.7017911666823,
+      27.505548485578345,
+      348.51258034658633
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/MELFI/",
+      "suffix": "/museoDIOCESANO.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Museo Diocesano Melfi",
+    "id": "CUdiocesanomelfi",
+    "vertices": [
+      360.4396505513794,
+      -64.80443668717527,
+      335.1824143886705,
+      126.62958067820276,
+      -63.12623777269799,
+      476.85159199546416,
+      128.43560502991465,
+      -20.717363796553244,
+      480.75907396488486,
+      364.1334886469376,
+      -20.666314785636636,
+      337.64142452171643
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/MELFI/MENU_360/MELFI_360.jpg",
+      "town": "Melfi",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Porta Venosina",
+    "id": "AGvenosina",
+    "vertices": [
+      -286.64828172285286,
+      -44.30807193657671,
+      -402.36594189226173,
+      -63.558288472392576,
+      -43.8716337172764,
+      -489.5986438207585,
+      -63.47159580132626,
+      -1.3836535576676638,
+      -493.83905536173415,
+      -290.76534997438057,
+      0.5807208965052908,
+      -404.836342652698
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/MELFI/",
+      "suffix": "/PORTAvenosina.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Porta Venosina",
+    "id": "CUvenosina",
+    "vertices": [
+      -298.4252092027337,
+      -99.46786014687643,
+      -388.0806860558432,
+      -44.99397744129365,
+      -98.95843028527611,
+      -487.0161204494287,
+      -45.86083510102259,
+      -56.74952376710911,
+      -491.3573490140603,
+      -302.4410217781163,
+      -56.92040742478031,
+      -390.9416795780395
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/MELFI/MENU_360/MELFI_360.jpg",
+      "town": "Melfi",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Santa Margherita",
+    "id": "AGmarghe",
+    "vertices": [
+      268.2099767130592,
+      -67.51791709235368,
+      411.3076633828837,
+      41.0812720517078,
+      -67.50578981993156,
+      491.10847864460163,
+      42.83344035899037,
+      -25.07826748119733,
+      495.02706134513954,
+      271.3231848778978,
+      -25.13208821227208,
+      414.2558639931938
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/MELFI/",
+      "suffix": "/SANTAMARGHERITA.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Santa Margherita",
+    "id": "CUmarghe",
+    "vertices": [
+      279.545516240747,
+      -117.3629473286858,
+      393.60327173672295,
+      22.5935883142715,
+      -116.7185471041289,
+      483.0030154717526,
+      25.408596619149563,
+      -75.69084543714428,
+      491.0099753795588,
+      283.9706784653346,
+      -75.06953366168824,
+      400.49010172655426
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/MELFI/MENU_360/MELFI_360.jpg",
+      "town": "Melfi",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Assunta Melfi",
+    "id": "AGassuntamelfi",
+    "vertices": [
+      131.88429519508895,
+      16.590476401137508,
+      -478.6604092465244,
+      341.0664302606059,
+      16.746053821561116,
+      -361.0819416483102,
+      339.49460677280126,
+      58.548818726472916,
+      -356.78561373487116,
+      130.22995296060805,
+      59.25965542325658,
+      -474.7467518192566
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/MELFI/",
+      "suffix": "/CattedraleSantaMariaAssunta.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Assunta Melfi",
+    "id": "CUassuntamelfi",
+    "vertices": [
+      114.55310586616534,
+      -37.98794331324074,
+      -480.43321514023773,
+      352.4926578320619,
+      -38.20579337741195,
+      -345.9831789455494,
+      354.672497777285,
+      4.085620541566121,
+      -348.5446344918664,
+      115.8361347208745,
+      5.649742208457732,
+      -483.39267610255524
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/MELFI/MENU_360/MELFI_360.jpg",
+      "town": "Melfi",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Piazza Castello",
+    "id": "AGpiazzcastello",
+    "vertices": [
+      408.8921438436413,
+      -18.51033650927266,
+      280.4498897228416,
+      133.1582259773253,
+      -18.395786271181937,
+      479.94321297903866,
+      130.11175665098042,
+      41.59276940416154,
+      478.39509919202897,
+      406.82721846699746,
+      42.300097709242465,
+      279.3314176871487
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/VENOSA/",
+      "suffix": "/PiazzaCastello.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Piazza Castello",
+    "id": "CUpiazzcastello",
+    "vertices": [
+      415.6759227535524,
+      -98.75795366272813,
+      256.79753089190024,
+      108.31587268923676,
+      -98.15714966530817,
+      476.38637507652214,
+      109.47197693863815,
+      -40.14820460589212,
+      482.08352966629946,
+      419.47041339961453,
+      -39.12013765928282,
+      261.984905317132
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/VENOSA/MENU_360/VENOSA_360.jpg",
+      "town": "Venosa",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Vicolo Gravattone",
+    "id": "AGgravattone",
+    "vertices": [
+      -335.1509808898019,
+      -4.499343923076433,
+      369.060586162117,
+      -485.6421664991174,
+      -4.037565579364193,
+      109.66206290188246,
+      -481.50733903080754,
+      49.951740196995644,
+      107.149974443106,
+      -331.4418227326928,
+      49.19160419031029,
+      366.6054383449149
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/VENOSA/",
+      "suffix": "/Vico Gravattone.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Vicolo Gravattone",
+    "id": "CUgravattone",
+    "vertices": [
+      -316.21995910510077,
+      -79.37786997686335,
+      376.30178308676807,
+      -482.0169279756277,
+      -76.74595255038429,
+      88.66707792261968,
+      -487.16799490623646,
+      -25.881204780586636,
+      88.12873824355401,
+      -319.8144527853585,
+      -25.88299960986339,
+      380.182074798352
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/VENOSA/MENU_360/VENOSA_360.jpg",
+      "town": "Venosa",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "San Andrea",
+    "id": "AGsanandrea",
+    "vertices": [
+      -56.662054961185106,
+      -6.434044693019741,
+      495.6446329274589,
+      -330.1157507109226,
+      -4.599291906019264,
+      374.3532764246479,
+      -327.5053864752206,
+      47.51151642946377,
+      370.99353384938524,
+      -55.203116883355534,
+      49.01071861765951,
+      491.5082739344196
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/VENOSA/",
+      "suffix": "/Cattedrale di Sant_Andrea.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "San Andrea",
+    "id": "CUsanandrea",
+    "vertices": [
+      -31.669542812967364,
+      -79.6873118653587,
+      489.118644179796,
+      -340.65393989917686,
+      -79.6301218251725,
+      352.5616226825854,
+      -343.88902422699977,
+      -28.055128856138015,
+      356.49656674254743,
+      -32.40995252435698,
+      -27.353248611054216,
+      494.2306002146936
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/VENOSA/MENU_360/VENOSA_360.jpg",
+      "town": "Venosa",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Casa Orazio",
+    "id": "AGorazio",
+    "vertices": [
+      -170.12919325977705,
+      -38.503820709688455,
+      464.80817851967174,
+      -367.5297634838178,
+      -39.10557425807144,
+      330.0065596379455,
+      -370.5346127623206,
+      3.7173666171059025,
+      331.8790657864701,
+      -169.20641292716945,
+      4.655735118674979,
+      468.8509405962886
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/VENOSA/",
+      "suffix": "/casa di orazio.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Casa Orazio",
+    "id": "CUorazio",
+    "vertices": [
+      -150.32296268283469,
+      -93.47313664431661,
+      466.7600201692154,
+      -376.29048284390785,
+      -94.29182507729337,
+      312.91426489364403,
+      -378.2285011326593,
+      -52.61571500478926,
+      316.8066063141341,
+      -151.3462098909057,
+      -52.13807789015322,
+      470.68246018800744
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/VENOSA/MENU_360/VENOSA_360.jpg",
+      "town": "Venosa",
+      "site": null
+    }
+  },
+  {
+    "context": "site",
+    "key": "Trinità",
+    "id": "AGtrinita",
+    "vertices": [
+      409.2414729503144,
+      -8.654988873396086,
+      -282.2990096878139,
+      496.74937693899346,
+      -8.532276855313121,
+      6.7779867562250615,
+      493.3804984153982,
+      44.056558485745505,
+      2.426593747945759,
+      405.25691403517493,
+      44.81853895783455,
+      -281.9717327382256
+    ],
+    "action": {
+      "type": "audio",
+      "prefix": "../../../assets/VENOSA/",
+      "suffix": "/Chiesa della SS. Trinità.wav"
+    }
+  },
+  {
+    "context": "site",
+    "key": "Trinità",
+    "id": "CUtrinita",
+    "vertices": [
+      392.0361934693902,
+      -77.53785923971512,
+      -296.9183660437893,
+      489.66624160796584,
+      -76.43200076128286,
+      22.974985681427455,
+      494.6768920548447,
+      -25.089891257822977,
+      23.869271697576096,
+      395.719669406145,
+      -25.26410214440886,
+      -300.682526248741
+    ],
+    "action": {
+      "type": "navigate",
+      "url": "../../../assets/VENOSA/MENU_360/VENOSA_360.jpg",
+      "town": "Venosa",
+      "site": null
+    }
+  }
+]

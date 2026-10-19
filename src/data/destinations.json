@@ -1,0 +1,290 @@
+[
+  {
+    "id": "pietragalla",
+    "name": "Pietragalla",
+    "coordinates": [
+      40.73,
+      15.88
+    ],
+    "panorama": "PIETRAGALLA/MENU_360/PIETRAGALLA_360_MENU_inv.jpg",
+    "mapIcon": "MAPPA/PIETRAGALLA.png",
+    "crest": "ICONE/STEMMI/PIETRAGALLA.png",
+    "sites": [
+      {
+        "name": "Monte Torretta",
+        "panorama": "PIETRAGALLA/Area Archeologica Monte Torretta.jpg"
+      },
+      {
+        "name": "Chiesa Madre San Nicola di Bari",
+        "panorama": "PIETRAGALLA/Chiesa Madre San Nicola di Bari.jpg"
+      },
+      {
+        "name": "Vicolo Saittera",
+        "panorama": "PIETRAGALLA/Vicoli - Saittera - Campanile.jpg"
+      },
+      {
+        "name": "Museo Civiltà Contadina",
+        "panorama": "PIETRAGALLA/Casa Museo della Civiltà Contadina Contadina.jpg"
+      },
+      {
+        "name": "Parco urbano dei Palmenti",
+        "panorama": "PIETRAGALLA/Parco Urbano dei Palmenti.jpg"
+      }
+    ],
+    "markerSize": [
+      128.0,
+      84.4
+    ]
+  },
+  {
+    "id": "forenza",
+    "name": "Forenza",
+    "coordinates": [
+      40.86,
+      15.85
+    ],
+    "panorama": "FORENZA/MENU_360/FORENZA_360_MENU_inv.jpg",
+    "mapIcon": "MAPPA/FORENZA.png",
+    "crest": "ICONE/STEMMI/FORENZA.png",
+    "sites": [
+      {
+        "name": "Palazzo Veltri",
+        "panorama": "FORENZA/Palazzo Veltri.jpg"
+      },
+      {
+        "name": "Arco Mario Brienza",
+        "panorama": "FORENZA/Arco Mario Brienza.jpg"
+      },
+      {
+        "name": "Chiesa Madre di San Nicola e Santa Maria SS",
+        "panorama": "FORENZA/Chiesa Madre di San Nicola e Santa Maria S.S..jpg"
+      },
+      {
+        "name": "Chiesa Annunziata",
+        "panorama": "FORENZA/Chiesa dell_Annunziata.jpg"
+      },
+      {
+        "name": "Piazzetta Arte Urbana",
+        "panorama": "FORENZA/PIAZZETTA_ARTE_URBANA.jpg"
+      },
+      {
+        "name": "Casa Contadina",
+        "panorama": "FORENZA/CasaContadina.jpg"
+      },
+      {
+        "name": "Santa Maria della Stella",
+        "panorama": "FORENZA/Santuario del S.S. Crocifisso e Santa Maria della Stella.jpg"
+      }
+    ],
+    "markerSize": [
+      144.8,
+      38.4
+    ]
+  },
+  {
+    "id": "acerenza",
+    "name": "Acerenza",
+    "coordinates": [
+      40.7931,
+      15.987400000000001
+    ],
+    "panorama": "ACERENZA/MENU_360/2_ACERENZA_360_MENU.jpg",
+    "mapIcon": "MAPPA/ACERENZA.png",
+    "crest": "ICONE/STEMMI/ACERENZA.png",
+    "sites": [
+      {
+        "name": "Cripta Ferrillo",
+        "panorama": "ACERENZA/CriptaFerrillo.jpg"
+      },
+      {
+        "name": "Cattedrale S Maria Assunta",
+        "panorama": "ACERENZA/CattedraleSANTAMARIAASSUNTA.jpg"
+      },
+      {
+        "name": "Museo Diocesano",
+        "panorama": "ACERENZA/MuseoDiocesano.jpg"
+      },
+      {
+        "name": "Chiesetta S Vincenzo Ferrer",
+        "panorama": "ACERENZA/ChiesettaSanVincenzoFerrer.jpg"
+      },
+      {
+        "name": "Archivio Diocesano",
+        "panorama": "ACERENZA/ArchivioDiocesanoeBiblioteca.jpg"
+      },
+      {
+        "name": "Galleria degli Stemmi",
+        "panorama": "ACERENZA/MuseoDiocesanoGalleriadegliStemmi.jpg"
+      },
+      {
+        "name": "Sala Espositiva",
+        "panorama": "ACERENZA/MuseoDiocesanoSala.jpg"
+      }
+    ],
+    "markerSize": [
+      156.8,
+      56.0
+    ]
+  },
+  {
+    "id": "laghi-di-monticchio",
+    "name": "Laghi di Monticchio",
+    "coordinates": [
+      40.910957999999994,
+      15.655307
+    ],
+    "panorama": "LAGHI DI MONTICCHIO/MENU_360/menu_LAGHI_DI_MONTICCHIO.jpg",
+    "mapIcon": "MAPPA/Monticchio.png",
+    "crest": "ICONE/STEMMI/LAGHI_MONTICCHIO.png",
+    "sites": [
+      {
+        "name": "Lago Grande",
+        "panorama": "LAGHI DI MONTICCHIO/LAGO_GRANDE.jpg"
+      },
+      {
+        "name": "Lago Piccolo",
+        "panorama": "LAGHI DI MONTICCHIO/LAGO_PICCOLO.jpg"
+      }
+    ],
+    "markerSize": [
+      168.8,
+      110.0
+    ]
+  },
+  {
+    "id": "san-fele",
+    "name": "San Fele",
+    "coordinates": [
+      40.798199999999994,
+      15.5403
+    ],
+    "panorama": "VR_SAN FELE/MENU_360/SANFELE_360_CENTRO.jpg",
+    "mapIcon": "MAPPA/SANFELE.png",
+    "crest": "ICONE/STEMMI/SANFELE.png",
+    "sites": [
+      {
+        "name": "Santa Maria della Quercia",
+        "panorama": "VR_SAN FELE/SITI_FOTO_WEB/web_ChiesaMadreSantaMariadellaQuercia.jpg"
+      },
+      {
+        "name": "Chiesetta dell' Annunziata",
+        "panorama": "VR_SAN FELE/SITI_FOTO_WEB/Piazza-ChiesettaDell_Annunziata.jpg"
+      },
+      {
+        "name": "Santa Maria di Pierno",
+        "panorama": "VR_SAN FELE/SITI_FOTO_WEB/web_SantuarioSantaMariadiPierno.jpg"
+      },
+      {
+        "name": "Cascata degli Innamorati",
+        "panorama": "VR_SAN FELE/SITI_FOTO_WEB/web_Cascata_dei_iInnamorati.jpg"
+      },
+      {
+        "name": "Cascata U Uattenniere",
+        "panorama": "VR_SAN FELE/SITI_FOTO_WEB/web_CascataU_Uattenniere.jpg"
+      }
+    ],
+    "markerSize": [
+      183.6,
+      95.2
+    ]
+  },
+  {
+    "id": "melfi",
+    "name": "Melfi",
+    "coordinates": [
+      41.0275,
+      15.6622
+    ],
+    "panorama": "MELFI/MENU_360/MELFI_360.jpg",
+    "mapIcon": "MAPPA/MELFI.png",
+    "crest": "ICONE/STEMMI/MELFI.png",
+    "sites": [
+      {
+        "name": "Castello di Melfi",
+        "panorama": "MELFI/WEB-FOTO-SITI/CastellodiMelfi.jpg"
+      },
+      {
+        "name": "Museo Diocesano Melfi",
+        "panorama": "MELFI/WEB-FOTO-SITI/MuseoDiocesano.jpg"
+      },
+      {
+        "name": "Porta Venosina",
+        "panorama": "MELFI/WEB-FOTO-SITI/PortaVenosina.jpg"
+      },
+      {
+        "name": "Santa Margherita",
+        "panorama": "MELFI/WEB-FOTO-SITI/ChiesadiSantaMargherita.jpg"
+      },
+      {
+        "name": "Assunta Melfi",
+        "panorama": "MELFI/WEB-FOTO-SITI/CattedraleSantaMariaAssunta.jpg"
+      }
+    ],
+    "markerSize": [
+      126.4,
+      64.4
+    ]
+  },
+  {
+    "id": "venosa",
+    "name": "Venosa",
+    "coordinates": [
+      40.942299999999996,
+      15.8657
+    ],
+    "panorama": "VENOSA/MENU_360/VENOSA_360.jpg",
+    "mapIcon": "MAPPA/VENOSA.png",
+    "crest": "ICONE/STEMMI/VENOSA.png",
+    "sites": [
+      {
+        "name": "Piazza Castello",
+        "panorama": "VENOSA/WEB_FOTO_SITI/Piazza, Castello di Venosa.jpg"
+      },
+      {
+        "name": "Vicolo Gravattone",
+        "panorama": "VENOSA/WEB_FOTO_SITI/vicoGRAVATTONE.jpg"
+      },
+      {
+        "name": "San Andrea",
+        "panorama": "VENOSA/WEB_FOTO_SITI/CattedralediSant_Andrea.jpg"
+      },
+      {
+        "name": "Casa Orazio",
+        "panorama": "VENOSA/WEB_FOTO_SITI/CASADIORAZIO.jpg"
+      },
+      {
+        "name": "Trinità",
+        "panorama": "VENOSA/WEB_FOTO_SITI/SS TrinitàVenosa.jpg"
+      }
+    ],
+    "markerSize": [
+      80.0,
+      53.6
+    ]
+  },
+  {
+    "id": "lagopesole",
+    "name": "Lagopesole",
+    "coordinates": [
+      40.7969,
+      15.764999999999999
+    ],
+    "panorama": "VR_LAGOPESOLE/MENU_360/web_LAGOPESOLE_360.jpg",
+    "mapIcon": "MAPPA/LAGOPESOLE.png",
+    "crest": "ICONE/STEMMI/LAGOPESOLE.png",
+    "sites": [
+      {
+        "name": "Piazzetta Lagopesole",
+        "panorama": "VR_LAGOPESOLE/WEB-FOTO-SITI/PiazzaLAGOPESOLE.jpg"
+      },
+      {
+        "name": "Castello Lagopesole",
+        "panorama": "VR_LAGOPESOLE/WEB-FOTO-SITI/castelloLagoPesole.jpg"
+      }
+    ],
+    "markerSize": [
+      163.6,
+      66.0
+    ]
+  }
+]
